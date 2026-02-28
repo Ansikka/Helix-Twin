@@ -16,22 +16,41 @@ It is designed for fast development, clean UI design, and scalable architecture.
 📂 Project Structure
 Helix-Twin/
 │
-├── public/              # Static assets
-├── src/                 # Source files
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # Page-level components
-│   ├── App.jsx          # Main App component
+├── public/    
+# Static assets
+
+├── src/       
+# Source files
+
+│   ├── components/ 
+# Reusable UI components
+
+│   ├── pages/  
+# Page-level components
+
+│   ├── App.jsx    
+
+# Main App component
+
 │   └── main.jsx         # Entry point
 │
 ├── index.html           # Root HTML file
+
 ├── package.json         # Project dependencies & scripts
+
 ├── vite.config.js       # Vite configuration
+
 ├── tailwind.config.js   # Tailwind configuration
+
 ├── postcss.config.js    # PostCSS configuration
+
 └── eslint.config.js     # ESLint configuration
+
+
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
-git clone https://github.com/your-username/Helix-Twin.git
+git clone https://github.com/your-Ansikka/Helix-Twin.git
 cd Helix-Twin
 2️⃣ Install dependencies
 npm install
