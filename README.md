@@ -1,7 +1,15 @@
-🚀 Helix-Twin
+🧬 Helix-Twin
+Agentic Engineering & Executable Digital Twin Framework for Medical Device Development
 
-Helix-Twin is a modern frontend web application built using React + Vite with Tailwind CSS for styling.
-It is designed for fast development, clean UI design, and scalable architecture.
+
+🏥 Overview
+
+Helix-Twin is an AI-driven system design framework that enables early-stage creation of executable digital twins for medical devices.
+
+It shifts validation from late-stage physical testing to early simulation-driven system validation, reducing rework, compliance risk, and time-to-market.
+
+This solution integrates hardware, firmware, mechanical systems, and patient physiology into a unified, continuously validated digital twin environment.
+
 
 📌 Tech Stack
 
