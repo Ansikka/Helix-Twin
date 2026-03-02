@@ -1,8 +1,7 @@
 🧬 Helix-Twin
 Agentic Engineering & Executable Digital Twin Framework for Medical Device Development
 
-
-##🏥 Overview
+🏥 Overview
 --
 
 Helix-Twin is an AI-driven system design framework that enables early-stage creation of executable digital twins for medical devices.
@@ -13,7 +12,7 @@ This solution integrates hardware, firmware, mechanical systems, and patient phy
 
 
 🚨 Problem Statement
-
+--
 Medical device development involves complex interactions between:
 
 Embedded firmware
@@ -42,7 +41,7 @@ This leads to delays, risk exposure, and slowed innovation.
 
 
 💡 Our Solution
-
+--
 Helix-Twin introduces:
 
 Agentic Engineering powered by AI + Executable Digital Twin Validation
@@ -63,6 +62,7 @@ Integrates risk & compliance validation continuously
 
 
 🏗 System Architecture
+--
 1️⃣ Input & Parsing Layer
 
 Requirement Decomposer (LLM-based)
@@ -131,7 +131,7 @@ The framework transforms compliance into a continuous simulation-driven validati
 
 
 🎯 Expected Outcomes
-
+--
 Early visibility into system behavior
 
 Reduced late-stage integration defects
@@ -146,7 +146,7 @@ Improved patient safety assurance
 
 
 🛠 Tech Stack
-
+--
 Frontend:
 
 React (Vite)
@@ -172,7 +172,7 @@ Agentic Engineering Framework
 Executable Digital Twin Theory
 
 🔬 Prototype Capabilities
-
+--
 The current prototype demonstrates:
 
 Requirement-to-architecture transformation
@@ -187,7 +187,7 @@ Quantifiable model effectiveness evaluation
 
 
 🚀 Future Roadmap
-
+--
 Hardware-in-the-loop integration
 
 Real-time telemetry ingestion
@@ -198,9 +198,9 @@ Automated regulatory dossier generation
 
 SaaS platform deployment for MedTech OEMs
 
-
+--
 📌 Vision
-
+--
 Helix-Twin redefines medical device engineering by shifting from:
 
 Design → Integrate → Test → Fix
@@ -234,7 +234,7 @@ Yet most devices are still built using traditional V-Model workflows where:
 In regulated environments (EU MDR, FDA), this leads to delays, risk, and massive cost overhead.
 
 💡 Introducing Helix-Twin
-
+--
 Helix-Twin is an AI-powered Agentic Engineering framework that generates and validates executable digital twins early in the medical device design lifecycle.
 
 Instead of validating after building the system, we:
@@ -298,7 +298,7 @@ Helix-Twin transforms compliance into a continuous validation system.
 
 
 🔬 Core Capabilities
-
+--
 ✔ LLM-based requirement decomposition
 ✔ Automated architecture graph modeling
 ✔ Cross-domain dependency mapping
@@ -353,7 +353,7 @@ Helix-Twin positions medical device engineering for this new era.
 
 
 🧠 Vision
-
+--
 Helix-Twin redefines medical device development:
 
 From “Build → Test → Fix”
@@ -371,7 +371,7 @@ Intelligent system co-design
 
 
 🔮 Future Roadmap
-
+--
 Hardware-in-the-loop validation
 
 Automated regulatory dossier generation
