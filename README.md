@@ -367,8 +367,6 @@ Reduced regulatory friction
 Higher patient safety confidence
 
 Intelligent system co-design
-![Uploading {5A3F2BE1-324C-4121-AD14-F0C6D0B65986}.png…]()
-
 
 🔮 Future Roadmap
 --
