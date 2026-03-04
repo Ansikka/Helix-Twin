@@ -1,5 +1,6 @@
 🧬 Helix-Twin
 Agentic Engineering & Executable Digital Twin Framework for Medical Device Development
+![d2436a0e-cd7e-48d5-9eb8-73c80a97814c](https://github.com/user-attachments/assets/62160a40-c9cf-4786-80d3-b98d49053383)
 
 🏥 Overview
 --
