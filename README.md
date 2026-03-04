@@ -8,6 +8,7 @@ Agentic Engineering & Executable Digital Twin Framework for Medical Device Devel
 Helix-Twin is an AI-driven system design framework that enables early-stage creation of executable digital twins for medical devices.
 
 It shifts validation from late-stage physical testing to early simulation-driven system validation, reducing rework, compliance risk, and time-to-market.
+![fa2624e3-8f66-4daa-b253-f4dcaba29c8d](https://github.com/user-attachments/assets/132ea321-75fb-4fa2-9d72-da65c36127b9)
 
 This solution integrates hardware, firmware, mechanical systems, and patient physiology into a unified, continuously validated digital twin environment.
 
@@ -40,6 +41,7 @@ Rework costs increase 10–100x under regulatory scrutiny
 
 This leads to delays, risk exposure, and slowed innovation.
 
+![fda48ce4-3ec6-40e5-a110-053b2dd72dd0](https://github.com/user-attachments/assets/4550b0dd-3fa7-4f3f-ab28-a5a724d9d17b)
 
 💡 Our Solution
 --
@@ -61,6 +63,7 @@ Enables simulation-based validation early in design
 
 Integrates risk & compliance validation continuously
 
+![826f1e4b-95fa-4ea7-9bff-26879f347e21](https://github.com/user-attachments/assets/0fc31324-c057-47bd-9a53-f1f74066c5cc)
 
 🏗 System Architecture
 --
@@ -85,6 +88,7 @@ Firmware Agent
 Mechanical Agent
 
 Each agent contributes to structured system definition and traceability.
+![05c3d33e-2951-4ac3-ada6-0374722aa419](https://github.com/user-attachments/assets/15e07fa5-3406-47cc-99b4-4246e4aafc2f)
 
 3️⃣ Simulation Engine
 
@@ -238,6 +242,7 @@ In regulated environments (EU MDR, FDA), this leads to delays, risk, and massive
 Helix-Twin is an AI-powered Agentic Engineering framework that generates and validates executable digital twins early in the medical device design lifecycle.
 
 Instead of validating after building the system, we:
+![6396fd1f-4f49-4e7a-9033-f15e3532cf92](https://github.com/user-attachments/assets/cecfaaa1-1c1a-4958-b0d4-b903e4aab506)
 
 🧠 Generate architecture
 🔄 Build a digital twin
@@ -372,6 +377,7 @@ Intelligent system co-design
 🔮 Future Roadmap
 --
 Hardware-in-the-loop validation
+![a66fdec9-beea-4ac7-8ea3-b32891ed303c](https://github.com/user-attachments/assets/6ca2c95b-d8c0-49bc-96c6-65047b4eafee)
 
 Automated regulatory dossier generation
 
